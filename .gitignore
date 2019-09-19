@@ -7,3 +7,7 @@
 *.py
 *.pyc
 
+# Model Weights files
+*.h5 
+*weights
+
