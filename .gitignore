@@ -11,3 +11,6 @@
 *.h5 
 *weights
 
+# Checpoint directory
+.ipynb_checkpoints/
+
