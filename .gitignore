@@ -1,0 +1,9 @@
+# Folder Custom Attributes file #
+.DS_Store
+*.DS_STORE
+*/*.DS_STORE
+
+# Python files (Including compiled bytecode)
+*.py
+*.pyc
+
